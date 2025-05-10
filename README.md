@@ -67,6 +67,14 @@ Please interpret this Crypto Fear & Greed Index value and explain what it means 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Crypto Fear & Greed Index for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/crypto-feargreed-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/crypto-feargreed-mcp --client claude
+```
+
 Clone the repository:
 
 ```bash
