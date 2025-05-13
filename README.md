@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-crypto-feargreed-mcp-badge.png)](https://mseep.ai/app/kukapay-crypto-feargreed-mcp)
+
 # Crypto Fear & Greed Index MCP Server
 
 A mcp server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
